@@ -1,2 +1,2 @@
 # git-first
-my first repo
+my first repolearing git repo.
